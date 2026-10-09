@@ -1,0 +1,10 @@
+[package]
+name = "tinted-schemes"
+version = "0.1.0"
+edition = "2024"
+license = "MIT"
+description = "The tinted-theming scheme collection, embedded at build time"
+repository = "https://github.com/fortesoft-co/schemes"
+
+[lib]
+path = "lib.rs"
